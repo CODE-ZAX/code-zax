@@ -1,9 +1,9 @@
-# Muhammad Faraz (CODE-ZAX) 👨‍💻  
+# Muhammad Faraz (CODE-ZAX)  
 **Technical Lead · SaaS & AI Product Builder · Full-Stack Specialist**
 
 ---
 
-## 🚀 About Me
+## About Me
 
 With over **5+ years** of deep experience, I build and scale SaaS & AI-driven products that delight users and solve real problems. I specialize in end-to-end ownership — from architecture and development to launch, QA, and iteration. I’ve partnered (contractually) with organizations like **MTM** and **NASA**, taking technical visions to production reality.
 
@@ -11,7 +11,7 @@ My sweet spot lies at the intersection of **modern JavaScript frameworks** (Next
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 - **Frontend / UI**: Next.js, React, Tailwind CSS, Chakra UI  
 - **Backend / APIs / Microservices**: Node.js, NestJS, Express, REST & GraphQL  
@@ -23,7 +23,7 @@ My sweet spot lies at the intersection of **modern JavaScript frameworks** (Next
 
 ---
 
-## 📂 Featured Projects & Repos
+## Featured Projects & Repos
 
 Below are some of the standout repositories you’ll find in my profile:
 
@@ -38,7 +38,7 @@ Below are some of the standout repositories you’ll find in my profile:
 
 ---
 
-## 🎯 What I Bring to the Table
+## What I Bring to the Table
 
 - **Launch & Cutover Expertise** — More than managing, I dive into QA, patching, and problem-solving during critical windows.  
 - **Team Leadership & Mentorship** — I guide junior devs, perform code reviews, unblock issues, and keep momentum high.  
@@ -48,7 +48,7 @@ Below are some of the standout repositories you’ll find in my profile:
 
 ---
 
-## 📈 What I’m Looking For
+## What I’m Looking For
 
 I enjoy contracts or full-time roles where:
 
@@ -59,11 +59,11 @@ I enjoy contracts or full-time roles where:
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
-- 🌐 GitHub: [github.com/code-zax](https://github.com/code-zax)  
-- 🔗 LinkedIn: [Linkedin](https://www.linkedin.com/in/mian-muhammad-faraz-93584521a/)  
-- 📧 Email: [Mail Me](mailto:mianmuhammadfaraz@hotmail.com)
+- GitHub: [github.com/code-zax](https://github.com/code-zax)  
+- LinkedIn: [Linkedin](https://www.linkedin.com/in/mian-muhammad-faraz-93584521a/)  
+- Email: [Mail Me](mailto:mianmuhammadfaraz@hotmail.com)
 
 Feel free to explore my repos, raise issues, or reach out for collaboration ideas. Always happy to talk code, architecture, AI, or product strategy.
 
