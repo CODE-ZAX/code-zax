@@ -14,7 +14,10 @@ My sweet spot lies at the intersection of **modern JavaScript frameworks** (Next
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-
+<style>.markdown-body table{
+  width:100% !important;
+  
+}</style>
 <table style="width:100% !important;">
 <tbody><tr border="none">
 <td width="70%" align="center">
