@@ -1,5 +1,5 @@
 # Muhammad Faraz (CODE-ZAX)  
-**Technical Lead · SaaS & AI Product Builder · Full-Stack Specialist**
+**Technical Lead · Web, Desktop and Mobile Developer · SaaS & AI Product Builder · Full-Stack Specialist**
 
 ---
 
@@ -25,11 +25,11 @@ My sweet spot lies at the intersection of **modern JavaScript frameworks** (Next
 
 ## Featured Projects & Repos
 
-Below are some of the standout repositories you’ll find in my profile:
+Below are some of the standout open-source repositories you’ll find in my profile:
 
 | Project | Description | Key Technologies |
 |---|---|---|
-| **chat_module_server / chat_module_client** | Real-time chat / messaging platform (server & client) | Node.js, WebSocket, React |
+| **chatli** | Real-time chat / messaging platform (server & client) | Node.js, WebSocket, React |
 | **eventdashboard** | Dashboard & event management system | Next.js, REST APIs |
 | **file-organizer** | A utility for organizing & categorizing files automatically | Python scripting |
 | **x-clipboard-manager** | Lightweight tool to manage and persist clipboard history | C++ |
@@ -60,7 +60,7 @@ I enjoy contracts or full-time roles where:
 ---
 
 ## Connect With Me
-
+- Website: [sirzaxx](https://sirzaxx.com)
 - GitHub: [github.com/code-zax](https://github.com/code-zax)  
 - LinkedIn: [Linkedin](https://www.linkedin.com/in/mian-muhammad-faraz-93584521a/)  
 - Email: [Mail Me](mailto:mianmuhammadfaraz@hotmail.com)
