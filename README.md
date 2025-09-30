@@ -1,7 +1,8 @@
 # Muhammad Faraz (CODE-ZAX)  
 **Technical Lead · Web, Desktop and Mobile Developer · SaaS & AI Product Builder · Full-Stack Specialist**
 
----
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## About Me
 
@@ -9,13 +10,12 @@ With over **5+ years** of deep experience, I build and scale SaaS & AI-driven pr
 
 My sweet spot lies at the intersection of **modern JavaScript frameworks** (Next.js, NestJS, etc.), **backend & API systems** (Node.js, Supabase, databases), and **AI/ML & generative systems** (OpenAI / LLM integrations). I lead teams, unblock bottlenecks, and ensure launches succeed.
 
----
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<p align="center">
-  <!--- stats (start) -->
-</p>
-<table>
+
+<table style="width:100%;">
 <tbody><tr border="none">
 <td width="50%" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=code-zax&amp;theme=dark&amp;show_icons=true&amp;count_private=true">
@@ -62,7 +62,7 @@ My sweet spot lies at the intersection of **modern JavaScript frameworks** (Next
 </div>
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<hr>
+
 
 ## Tech Stack & Tools
 
@@ -75,7 +75,7 @@ My sweet spot lies at the intersection of **modern JavaScript frameworks** (Next
 - **Collab / Product Ops**: Notion, Slack, Jira, Trello, Figma (for UI), stakeholder alignment  
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<hr>
+
 
 ## Featured Projects & Repos
 
@@ -91,7 +91,7 @@ Below are some of the standout open-source repositories you’ll find in my prof
 *(Each of these repos demonstrates my ability to build end-to-end features, integrate modules, and ship working software.)*
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<hr>
+
 
 ## What I Bring to the Table
 
@@ -102,7 +102,7 @@ Below are some of the standout open-source repositories you’ll find in my prof
 - **Strong Cross-Zone Communication** — I’m used to overlapping with US, EU, and IST teams, syncing in Slack, delivering status, and keeping all stakeholders aligned.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<hr>
+
 
 ## What I’m Looking For
 
@@ -114,7 +114,7 @@ I enjoy contracts or full-time roles where:
 - There’s room to **mentor, lead, and grow**  
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<hr>
+
 
 ## Connect With Me
 - Website: [sirzaxx](https://sirzaxx.com)
@@ -125,7 +125,7 @@ I enjoy contracts or full-time roles where:
 Feel free to explore my repos, raise issues, or reach out for collaboration ideas. Always happy to talk code, architecture, AI, or product strategy.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<hr>
+
 
 > “A good engineer doesn’t just write code. They ensure it works, scales, ships — and that users don’t even notice the seams.”  
 
