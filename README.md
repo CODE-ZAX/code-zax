@@ -14,39 +14,6 @@ My sweet spot lies at the intersection of **modern JavaScript frameworks** (Next
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<table align="center style="width:100% !important;">
-<tbody><tr border="none">
-<td width="70%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=code-zax&amp;theme=dark&amp;show_icons=true&amp;count_private=true">
-  <br><br>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=code-zax&amp;theme=dark&amp;hide_border=false"> 
-</td><td width="30%" align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=code-zax&amp;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10">
-  </td>
-</tr>
-</tbody></table>
-<!--- stats (end) -->
-
-<!--- stats (end) -->
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&amp;perline=14">
-  </a>
-</p>
-
-<!--profile visit count-->
-<div align="center">
-<p><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=code-zax&amp;icon=3&amp;color=6" alt=""></a></p>
-</div>
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ## Tech Stack & Tools
@@ -100,6 +67,39 @@ I enjoy contracts or full-time roles where:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<table align="center style="width:100% !important;">
+<tbody><tr border="none">
+<td width="70%" align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=code-zax&amp;theme=dark&amp;show_icons=true&amp;count_private=true">
+  <br><br>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=code-zax&amp;theme=dark&amp;hide_border=false"> 
+</td><td width="30%" align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=code-zax&amp;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10">
+  </td>
+</tr>
+</tbody></table>
+<!--- stats (end) -->
+
+<!--- stats (end) -->
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&amp;perline=14">
+  </a>
+</p>
+
+<!--profile visit count-->
+<div align="center">
+<p><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=code-zax&amp;icon=3&amp;color=6" alt=""></a></p>
+</div>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Connect With Me
 - Website: [sirzaxx](https://sirzaxx.com)
