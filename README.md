@@ -15,7 +15,7 @@ My sweet spot lies at the intersection of **modern JavaScript frameworks** (Next
 <p align="center">
   <!--- stats (start) -->
 </p>
-<table align="center">
+<table>
 <tbody><tr border="none">
 <td width="50%" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=code-zax&amp;theme=dark&amp;show_icons=true&amp;count_private=true">
@@ -27,14 +27,7 @@ My sweet spot lies at the intersection of **modern JavaScript frameworks** (Next
 </tr>
 </tbody></table>
 <!--- stats (end) -->
-<!--- trophy (start) -->
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=code-zax&amp;theme=radical&amp;row=1&amp;column=7&amp;margin-h=15&amp;margin-w=5&amp;no-bg=true" alt="TROPHY">
-    </a>
-</div>
-<!--- trophy (start) -->
-<p></p>        
+
 <!--- stats (end) -->
 <!--h1 without bottom border-->
 <div id="user-content-toc">
