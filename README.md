@@ -20,9 +20,9 @@ My sweet spot lies at the intersection of **modern JavaScript frameworks** (Next
 <td width="50%" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=1010nishant&amp;theme=dark&amp;show_icons=true&amp;count_private=true">
   <br><br>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&amp;theme=dark&amp;hide_border=false"> 
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=code-zax&amp;theme=dark&amp;hide_border=false"> 
 </td><td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&amp;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=code-zax&amp;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10">
   </td>
 </tr>
 </tbody></table>
@@ -30,7 +30,7 @@ My sweet spot lies at the intersection of **modern JavaScript frameworks** (Next
 <!--- trophy (start) -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=1010nishant&amp;theme=radical&amp;row=1&amp;column=7&amp;margin-h=15&amp;margin-w=5&amp;no-bg=true" alt="TROPHY">
+      <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=code-zax&amp;theme=radical&amp;row=1&amp;column=7&amp;margin-h=15&amp;margin-w=5&amp;no-bg=true" alt="TROPHY">
     </a>
 </div>
 <!--- trophy (start) -->
@@ -39,7 +39,7 @@ My sweet spot lies at the intersection of **modern JavaScript frameworks** (Next
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies That I Know</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -81,7 +81,8 @@ My sweet spot lies at the intersection of **modern JavaScript frameworks** (Next
 - **DevOps / CI-CD / Monitoring**: GitHub Actions, Vercel, log/metrics tooling  
 - **Collab / Product Ops**: Notion, Slack, Jira, Trello, Figma (for UI), stakeholder alignment  
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<hr>
 
 ## Featured Projects & Repos
 
@@ -96,7 +97,8 @@ Below are some of the standout open-source repositories you’ll find in my prof
 
 *(Each of these repos demonstrates my ability to build end-to-end features, integrate modules, and ship working software.)*
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<hr>
 
 ## What I Bring to the Table
 
@@ -106,7 +108,8 @@ Below are some of the standout open-source repositories you’ll find in my prof
 - **AI & Logic Systems** — I bridge creative logic (e.g. tarot engines, horoscope flows) with clean architecture and robust data pipelines.  
 - **Strong Cross-Zone Communication** — I’m used to overlapping with US, EU, and IST teams, syncing in Slack, delivering status, and keeping all stakeholders aligned.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<hr>
 
 ## What I’m Looking For
 
@@ -117,7 +120,8 @@ I enjoy contracts or full-time roles where:
 - I get to build **AI/ML-enhanced features or SaaS modules**  
 - There’s room to **mentor, lead, and grow**  
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<hr>
 
 ## Connect With Me
 - Website: [sirzaxx](https://sirzaxx.com)
@@ -127,7 +131,8 @@ I enjoy contracts or full-time roles where:
 
 Feel free to explore my repos, raise issues, or reach out for collaboration ideas. Always happy to talk code, architecture, AI, or product strategy.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<hr>
 
 > “A good engineer doesn’t just write code. They ensure it works, scales, ships — and that users don’t even notice the seams.”  
 
