@@ -15,7 +15,7 @@ My sweet spot lies at the intersection of **modern JavaScript frameworks** (Next
 
 
 
-<table style="width:100%!important;">
+<table style="width:100% !important;">
 <tbody><tr border="none">
 <td width="70%" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=code-zax&amp;theme=dark&amp;show_icons=true&amp;count_private=true">
