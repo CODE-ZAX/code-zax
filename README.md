@@ -5,7 +5,7 @@
 
 ## About Me
 
-With over **5+ years** of deep experience, I build and scale SaaS & AI-driven products that delight users and solve real problems. I specialize in end-to-end ownership — from architecture and development to launch, QA, and iteration. I’ve partnered (contractually) with organizations like **MTM** and **NASA**, taking technical visions to production reality.
+With over **5+ years** of deep experience, I build and scale SaaS & AI-driven products that delight users and solve real problems. I specialize in end-to-end ownership — from architecture and development to launch, QA, and iteration. I’ve partnered (contractually) with organizations like **Medical Transportation Management**, **BrentDarnell**, **NASA** and many more, taking technical visions to production reality.
 
 My sweet spot lies at the intersection of **modern JavaScript frameworks** (Next.js, NestJS, etc.), **backend & API systems** (Node.js, Supabase, databases), and **AI/ML & generative systems** (OpenAI / LLM integrations). I lead teams, unblock bottlenecks, and ensure launches succeed.
 
